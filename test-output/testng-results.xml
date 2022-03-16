@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-16T15:21:11 IST" name="Default suite" finished-at="2022-03-16T15:21:12 IST" duration-ms="73">
+    <groups>
+    </groups>
+    <test started-at="2022-03-16T15:21:11 IST" name="Default test" finished-at="2022-03-16T15:21:12 IST" duration-ms="73">
+      <class name="mavenparametertest.mavenparaTest">
+        <test-method signature="ReadData()[pri:0, instance:mavenparametertest.mavenparaTest@7671cb68]" started-at="2022-03-16T15:21:12 IST" name="ReadData" finished-at="2022-03-16T15:21:12 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadData -->
+      </class> <!-- mavenparametertest.mavenparaTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
